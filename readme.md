@@ -1,0 +1,1 @@
+1. En la linea de comandos de git, en el directorio que queramos ponemos lo siguiente: (git init), se nos creara un .git y podemos añadir los archivos que queramos subir pero sin estar subidos aun al git
